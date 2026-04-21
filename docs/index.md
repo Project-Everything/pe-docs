@@ -11,7 +11,7 @@ hero:
       link: /introduction/getting-started/
     - theme: alt
       text: 'Guide'
-      link: /guide/definitions/
+      link: /guide/style-guidelines/
     - theme: alt
       text: 'Google Drive'
       link: https://drive.google.com/drive/folders/13E1IdZO7FhT1a0q6orU3cZqq6rwmxMvL?usp=sharing

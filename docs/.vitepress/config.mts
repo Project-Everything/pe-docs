@@ -12,7 +12,7 @@ export default defineConfig({
         nav: [
             {text: 'Home', link: '/'},
             {text: 'Getting Started', link: '/introduction/getting-started/'},
-            {text: 'Guide', link: '/introduction/definitions/'},
+            {text: 'Guide', link: '/guide/style-guidelines/'},
             {text: 'Google Drive', link: 'https://drive.google.com/drive/folders/13E1IdZO7FhT1a0q6orU3cZqq6rwmxMvL?usp=sharing'}
         ],
         sidebar: [
