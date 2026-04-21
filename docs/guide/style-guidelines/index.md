@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Power & Influence
+title: Style Guidelines
 ---
 
 # {{ $frontmatter.title }}
