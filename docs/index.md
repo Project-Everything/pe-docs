@@ -17,11 +17,14 @@ hero:
       link: https://drive.google.com/drive/folders/13E1IdZO7FhT1a0q6orU3cZqq6rwmxMvL?usp=sharing
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Existences
+    details: ...
+    link: https://drive.google.com/drive/folders/10FDRlAIYwbqh8G0CaU0jepkAHlQJ1ld6
+  - title: Characters
+    details: ...
+    link: https://drive.google.com/drive/folders/10FcWXmSs7XLsPdoqawi4RJPIgHVSgacq
+  - title: Groups
+    details: ...
+    link: https://drive.google.com/drive/folders/1AxLmx5QtJBybFheSOYATtxIC4hsUA6hJ
 ---
 
